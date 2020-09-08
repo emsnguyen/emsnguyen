@@ -1,5 +1,5 @@
 ### Hi there :joy:
-## I am avid coder, reader and listener
+## I am an avid coder, reader and listener
 - 🔭 I’m currently working on Java and Laravel Projects
 - 🌱 I’m currently answering [Computer Science Basics](https://github.com/vietnakid/learning-material/tree/master/computer-science)
 - 👯 I’m looking to collaborate on Freelance Projects
