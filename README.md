@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Java and Laravel Projects
 - 🌱 I’m currently answering [Computer Science Basics](https://github.com/vietnakid/learning-material/tree/master/computer-science)
 - 👯 I’m looking to collaborate on Freelance Projects
-- 🤔 I’m looking for help with [learning English](https://javacuder.wordpress.com/2017/03/15/vinglish-doc-xong-bai-nay-ban-se-nho-duoc-100-tu-moi-tieng-anh-trust-me-tin-toi-di-dung-nem-stones-nhe-2/) or [starting to code](https://wordpress.com/block-editor/post/javacuder.wordpress.com/1097)
+- 🤔 I can help with [learning English](https://javacuder.wordpress.com/2017/03/15/vinglish-doc-xong-bai-nay-ban-se-nho-duoc-100-tu-moi-tieng-anh-trust-me-tin-toi-di-dung-nem-stones-nhe-2/) or [starting to code](https://wordpress.com/block-editor/post/javacuder.wordpress.com/1097)
 - 💬 Ask me about: Learning English, Starting to Code  
 - ⚡ Fun fact: Ate Kokomi (instant noodles) within 1 months on end :joy:
 <br />
