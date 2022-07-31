@@ -1,10 +1,10 @@
 ### Hi there :joy:
-## I am an avid coder and learner
-- 🔭 I’m currently working on Java and Laravel Projects
-- 🌱 I’m currently answering [Computer Science Basics](https://github.com/vietnakid/learning-material/tree/master/computer-science)
+## I love learning languages and moving to different places
+- 🔭 I’m currently working on Java and PHP Projects
+- I am answering Leetcode questions on [Neetcode.io](https://neetcode.io/)
+- 🌱 I plan to answer [Computer Science Basics](https://github.com/vietnakid/learning-material/tree/master/computer-science)
 - 👯 I’m looking to collaborate on Freelance Projects
-- 💬 Ask me about: Learning English, Starting to Code  
-- ⚡ Fun fact: Ate Kokomi (instant noodles) within 1 months on end :joy:
+- 💬 Ask me about: Learning languages, Starting to Code
 <br />
 
 ### Connect with me: 
